@@ -1,0 +1,11 @@
+
+*.log
+
+.idea/
+
+.DS_Store
+
+*/Release
+*/x64
+.vs
+x64/*
